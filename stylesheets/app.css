@@ -1,0 +1,19 @@
+@import url(open-iconic-bootstrap.css);
+@import url(bootstrap/bootstrap-grid.min.css);
+@import url(bootstrap/bootstrap.min.css);
+@import url("https://fonts.googleapis.com/css?family=Barlow:700|Roboto");
+body {
+  font-family: "Roboto";
+  color: #141414; }
+
+h1, h2, h3 {
+  font-family: "Barlow";
+  font-weight: 700; }
+
+footer {
+  background-color: #1BA5B8;
+  height: 20rem;
+  padding-top: 2rem; }
+
+img.profile {
+  zoom: 50%; }
