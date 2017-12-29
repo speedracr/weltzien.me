@@ -1,2 +1,24 @@
+#special {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #141414;
+  margin-left: 1rem;
+  margin-top: 1rem; }
+
 img.profile {
-  zoom: 50%; }
+  zoom: 33%;
+  float: left; }
+
+h1#title {
+  margin-top: 1rem;
+  font-size: 2rem; }
+
+#header {
+  margin-top: 2rem; }
+
+#main {
+  min-height: 1;
+  margin-top: 1rem; }
+
+.blue {
+  background-color: turquoise; }

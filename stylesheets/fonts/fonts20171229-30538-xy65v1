@@ -2,7 +2,7 @@
 Error: Undefined variable: "$base-color".
         on line 5 of /Users/ilion/Documents/jdk/code/w-me/source/stylesheets/fonts.sass
 
-1: @import url('https://fonts.googleapis.com/css?family=Barlow:700|Roboto')
+1: @import url('https://fonts.googleapis.com/css?family=Barlow:700|Roboto|Bungee')
 2: 
 3: body
 4:   font-family: 'Roboto'
@@ -151,4 +151,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$base-color\".\A         on line 5 of /Users/ilion/Documents/jdk/code/w-me/source/stylesheets/fonts.sass\A \A 1: @import url('https://fonts.googleapis.com/css?family=Barlow:700|Roboto')\A 2: \A 3: body\A 4:   font-family: 'Roboto'\A 5:   color: $base-color\A 6: \A 7: h1,h2,h3\A 8:   font-family: 'Barlow'\A 9:   font-weight: 700"; }
+  content: "Error: Undefined variable: \"$base-color\".\A         on line 5 of /Users/ilion/Documents/jdk/code/w-me/source/stylesheets/fonts.sass\A \A 1: @import url('https://fonts.googleapis.com/css?family=Barlow:700|Roboto|Bungee')\A 2: \A 3: body\A 4:   font-family: 'Roboto'\A 5:   color: $base-color\A 6: \A 7: h1,h2,h3\A 8:   font-family: 'Barlow'\A 9:   font-weight: 700"; }

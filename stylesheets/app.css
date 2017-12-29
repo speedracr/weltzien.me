@@ -1,7 +1,7 @@
 @import url(open-iconic-bootstrap.css);
 @import url(bootstrap/bootstrap-grid.min.css);
 @import url(bootstrap/bootstrap.min.css);
-@import url("https://fonts.googleapis.com/css?family=Barlow:700|Roboto");
+@import url("https://fonts.googleapis.com/css?family=Barlow:700|Roboto|Bungee");
 body {
   font-family: "Roboto";
   color: #141414; }
@@ -15,5 +15,43 @@ footer {
   height: 20rem;
   padding-top: 2rem; }
 
+#greeting {
+  font-family: "Bungee";
+  font-weight: 700;
+  color: #fff;
+  font-size: 4rem;
+  margin: 3rem 0;
+  text-align: center;
+  /* Safari */
+  -webkit-transform: rotate(-10deg);
+  /* Firefox */
+  -moz-transform: rotate(-10deg);
+  /* IE */
+  -ms-transform: rotate(-10deg);
+  /* Opera */
+  -o-transform: rotate(-10deg); }
+
+#special {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #141414;
+  margin-left: 1rem;
+  margin-top: 1rem; }
+
 img.profile {
-  zoom: 50%; }
+  zoom: 33%;
+  float: left; }
+
+h1#title {
+  margin-top: 1rem;
+  font-size: 2rem; }
+
+#header {
+  margin-top: 2rem; }
+
+#main {
+  min-height: 1;
+  margin-top: 1rem; }
+
+.blue {
+  background-color: turquoise; }
